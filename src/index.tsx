@@ -36,7 +36,7 @@ root.render(
     language: LangCode.CS,
     currency: 'CZK',
     // @ts-ignore
-    bundleUrlOverride: 'http://localhost:3000/core-react-dom-bundle/index.js',
+    bundleUrlOverride: 'https://tivio-resolver-production.tiv.io/serveBundle/core-react-dom_5.7.3-alpha-demo-widgets-11.js',
   }}>
     <AppProvider>
       <FocusRoot>
